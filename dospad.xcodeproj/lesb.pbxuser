@@ -1,0 +1,222 @@
+// !$*UTF8*$!
+{
+	0064653F107E3D7400183915 /* SDL Generated Header Files */ = {
+		activeExec = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 43C4D95B134CBA0F00A80D2A /* iDOS */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = E7BE1297128BF31A0046990B /* iDOS */;
+		codeSenseManager = 43C4D982134CBA2F00A80D2A /* Code sense */;
+		executables = (
+			43C4D95A134CBA0F00A80D2A /* dospad */,
+			43C4D95B134CBA0F00A80D2A /* iDOS */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 331654520;
+			PBXWorkspaceStateSaveDate = 331654520;
+		};
+		perUserProjectItems = {
+			4351809213C35CB70099D512 /* PBXTextBookmark */ = 4351809213C35CB70099D512 /* PBXTextBookmark */;
+			435180A113C4A75B0099D512 /* PBXTextBookmark */ = 435180A113C4A75B0099D512 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 43C4D981134CBA2F00A80D2A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4351809213C35CB70099D512 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E715B35A1293B7750098D437 /* DOSPadBaseViewController.m */;
+		name = "DOSPadBaseViewController.m: 338";
+		rLen = 0;
+		rLoc = 8649;
+		rType = 0;
+		vrLen = 1139;
+		vrLoc = 6816;
+	};
+	435180A113C4A75B0099D512 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E715B35A1293B7750098D437 /* DOSPadBaseViewController.m */;
+		name = "DOSPadBaseViewController.m: 338";
+		rLen = 0;
+		rLoc = 8649;
+		rType = 0;
+		vrLen = 1139;
+		vrLoc = 6816;
+	};
+	43C4D95A134CBA0F00A80D2A /* dospad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = dospad;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	43C4D95B134CBA0F00A80D2A /* iDOS */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iDOS;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	43C4D981134CBA2F00A80D2A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				./SDL = "";
+			};
+		};
+	};
+	43C4D982134CBA2F00A80D2A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E715B3591293B7740098D437 /* DOSPadBaseViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1040}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{494, 1247}";
+		};
+	};
+	E715B35A1293B7750098D437 /* DOSPadBaseViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 6266}}";
+			sepNavSelRange = "{8649, 0}";
+			sepNavVisRange = "{6816, 1139}";
+		};
+	};
+	E71E60DF11B5502700EC5A05 /* dospad */ = {
+		activeExec = 0;
+		executables = (
+			43C4D95A134CBA0F00A80D2A /* dospad */,
+		);
+	};
+	E71E60EA11B5506800EC5A05 /* dosbox */ = {
+		activeExec = 0;
+	};
+	E71E619611B550FD00EC5A05 /* adlib.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1924}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1202}";
+		};
+	};
+	E778B2B1123918F6008AF49A /* SDL_net */ = {
+		activeExec = 0;
+	};
+	E794F3FD12DB4F0E00427836 /* PianoKeyboard.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 624}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{73, 883}";
+		};
+	};
+	E794F3FE12DB4F0E00427836 /* PianoKeyboard.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 4836}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{9783, 1277}";
+		};
+	};
+	E7BE1297128BF31A0046990B /* iDOS */ = {
+		activeExec = 0;
+		executables = (
+			43C4D95B134CBA0F00A80D2A /* iDOS */,
+		);
+	};
+	E7D6B89711BF322E00D34665 /* minizip */ = {
+		activeExec = 0;
+	};
+	FD6526620DE8FCCB002AD96B /* SDLStaticLib */ = {
+		activeExec = 0;
+	};
+}
